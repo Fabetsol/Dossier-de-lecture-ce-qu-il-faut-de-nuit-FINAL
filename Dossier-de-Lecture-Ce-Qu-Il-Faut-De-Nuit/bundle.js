@@ -133,7 +133,7 @@ module.exports=[
         "Gaspard Augé",
         "https://static.fnac-static.com/multimedia/Images/FR/NR/69/c8/cd/13486185/1540-1/tsp20210511141119/Escapades.jpg",
         "Le Fus.",
-        "",
+        "J'ai jugé que cette musique était adéquate pour cloturer l'histoire du point de vue du père. Je trouve qu'elle ressemble à une sorte de générique de vieu dessin animé.",
         "https://drive.google.com/file/d/1-OnI95fDE-RxKQXeAdwXxY6E3affuITI/view?usp=sharing"
     ],
     [
@@ -141,7 +141,7 @@ module.exports=[
         "<a href='https://fr.wikipedia.org/wiki/Justice_(groupe)'>Justice</a>",
         "https://m.media-amazon.com/images/I/51zeyYKXFWL._SL1200_.jpg",
         "Cher Pa'",
-        "justification",
+        "Enfin, pour ces dernières pages, j'ai choisi une musique calme et, je ne saurai l'expliquer mais, cette musique semble annoncer la fin de quelque chose, et, dans ce cas là, la fin de l'histoire.",
         "https://drive.google.com/file/d/1Op0Wirr0kc3C7un29iJKCBkpvJjb4NTX/view?usp=sharing"
     ]
 ]
