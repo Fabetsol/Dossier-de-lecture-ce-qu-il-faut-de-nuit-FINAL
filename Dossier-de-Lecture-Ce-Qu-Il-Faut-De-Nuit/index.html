@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ce qu'il faut de nuit</title>
+    <link rel="stylesheet" href="css/bulma.css">
+  </head>
+
+
+<body>
+<section class="section">
+
+<div style="margin-top:30vh;"></div>
+<div class="container">
+<h1 data-inviewport="text" class="titre_oeuvre">Ce qu'il faut de nuit</h1>
+<h2 data-inviewport="text" class="nom_auteur">Laurent Petitmangin</h2>
+<h3 data-inviewport="text" class="date">20 aout 2020</h3>
+</div>
+
+<div style="margin-top:45vh;"></div>
+<div data-inviewport="text" class="auteur">
+    <table class="auteur_table">
+        <thead><p class="auteur_head">Auteur et contexte de l'oeuvre</p></thead>
+        <tr>
+            <td style="width:25%;"><img class="photo_auteur" src="css/auteur.png"></td>
+            <td style="width:75%;"><h3 id="auteur_resume" class="auteur_text">
+                Laurent Petitmangin, né en 1965 en Lorraine, est un auteur et écrivain mais aussi cadre chez Air France. Fils d'un père Cheminot et d'une mère secrétaire, il vit à Metz jusqu'à ses 20 ans, puis déménage à Lyon afin de rejoindre une école supérieure lui permettant d'intégrer plus tard Air France.
+                <br><br>
+                <u>Ce qu'il faut de nuit</u> est le premier roman de Laurent Petitmangin. Ce dernier a écrit l'histoire durant les dix années précédent sa publication le 20 août 2020 aux éditions La Manufacture de livres. Ce roman a permis à Laurent Petitmangin de remporter plusieurs prix tels que le Feuille d'or de la ville de Nancy, le prix Georges-Brassens, ainsi que le Grand prix du premier roman de la Société des gens de lettres, ou encore le prix Femina des lycéens.
+            </h3></td>
+        </tr>
+    </table>
+</div>
+
+<div style="margin-top:15vh;"></div>
+<div data-inviewport="text" class="impressions">
+    <table class="impressions_head">
+        <thead><p class="impressions_head">Mes impressions de lecture</p></thead>
+        <tr>
+            <td style="width:75%;"><h3 id="impressions_resume" class="impressions_text">
+                Lorsque je commence à lire le roman, je trouve celui-ci un peu ennuyant. La description de la vie lente et plutôt déprimante du père ne m'interesse guère. Mais le roman m'est soudainement plus attirant lorsqu'une tension entre le père et son fils Fus se crée, due aux opinions politiques opposés des deux personnages.<br>
+                Le départ de Gillou m'a légèrement touché et attristé, étant donné que cette scène me rappelle un titre de musique ayant pour tendance de me rendre un peu triste. Mais je suis finalement plutôt déçu de savoir que Gillou revient chaque semaine, cela me donne l'impression d'avoir été triste pour au final pas grand chose !<br>
+                J'ai adoré la seconde partie du roman, à partir du moment où Fus est retrouvé bléssé sur le canapé, le suspens et la tension m'emportent et me donnent envie lire la suite. Le procès me plaît également beaucoup, étant déjà grandement interessé par les faits divers. Les scènes au tribunal me rappelle d'ailleurs les scènes similaires dans <u>L'Adversaire</u> par Emmanuel Carrère.<br>
+                Je suis cependant perplexe face à la lettre qui cloture le roman, je ne comprend pas réellement le message de Fus. Est-il simplement transféré dans une autre prison ? Ou, parle-t-il d'un autre sort de départ, comme un d"part vers la mort ?
+            </h3></td>
+            <td style="width:25%;"><img src="css/book.png"></td>
+        </tr>
+    </table>
+</div>
+
+<div style="margin-top:15vh;"></div>
+<div data-inviewport="text" class="mise_image">
+<table class="mise_image_table">
+    <thead><p class="mise_image_head">Mise en image de différentes scènes</p></thead>
+    <tr>
+        <td style="width:20%;">
+            <table>
+                <tr><td><button id="scene_1" class="bouton_scenes">Le match de foot</button></td></tr>
+                <tr><td><div style="margin-top:5vh;"></div></td></tr>
+                <tr><td><button id="scene_2" class="bouton_scenes">Le départ de Gillou</button></td></tr>
+                <tr><td><div style="margin-top:5vh;"></div></td></tr>
+                <tr><td><button id="scene_3" class="bouton_scenes">Le procès</button></td></tr>
+            </table>
+        </td>
+
+        <td class="mise_image_images" id="images_scene_n">
+            
+        </td>
+    </tr>
+</table>
+</div>
+
+<div style="margin-top:15vh;"></div>
+<div><p class="citations"><i>"Quelle merde, quelle merde que cette vie !"</i></p></div>
+
+<div style="margin-top:15vh;"></div>
+<div data-inviewport="text" class="player">
+<table class="player_table">
+    <thead><p class="player_head">Ma Bande Originale pour Ce qu'il faut de nuit</p></thead>
+    <tr>
+        <td><button class="manage_music" id="previous"><img class="music_image" src="css/previous.png"></button></td>
+        <td><div style="margin:auto;height: 95vh;width: 50vh;background-color: antiquewhite; border-radius: 5vh; padding: 5vh;" id="music"></div></td>
+        <td><button class="manage_music" id="next"><img class="music_image" src="css/next.png"></button></td>
+    </tr>
+</table>
+<div style="margin-top: 3vh;"></div>
+<p class="justification" id="justification"></p>
+</div>
+
+<div style="margin-top:15vh;"></div>
+<div data-inviewport="text" class="scenes_clefs">
+<table class="scenes_clefs_table">
+    <thead><p class="scenes_clefs_head">Les scènes clefs</p></thead>
+    <tr>
+        <td>
+            <table style="margin:5vh">
+                <tr><td><button id="clef_1" class="bouton_scenes">Le match de foot</button></td></tr>
+                <tr><td><div style="margin-top:5vh;"></div></td></tr>
+                <tr><td><button id="clef_2" class="bouton_scenes">Fus le facho</button></td></tr>
+                <tr><td><div style="margin-top:5vh;"></div></td></tr>
+                <tr><td><button id="clef_3" class="bouton_scenes">Le départ de Gillou</button></td></tr>
+                <tr><td><div style="margin-top:5vh;"></div></td></tr>
+                <tr><td><button id="clef_4" class="bouton_scenes">Le procès</button></td></tr>
+            </table>
+        </td>
+
+        <td id="scenes_clefs_n">
+        </td>
+    </tr>
+</table>
+</div>
+
+<div style="margin-top:15vh;"></div>
+<div data-inviewport="text" class="annonce">
+<p class="scenes_clefs_head">Bande-annonce</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CFGMEpJSqN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="font-size:2vh;color:goldenrod">Musique: Thirst par SebastiAn</p>
+</div>
+
+<div style="margin-top:15vh;"></div>
+<div data-inviewport="text" class="casting">
+<table class="casting_table">
+    <thead><p class="casting_head">Mon casting pour Ce qu'il Faut de nuit</p></thead>
+    <tr>
+        <td><p class="casting_text"><u>Dans le rôle du père:</u> Je choisirai <strong>Jimmmi Simpson.</strong> J'ai découvert cet acteur dans la série West World, où celui-ci a incarnée à merveille son rôle de personnage touchant. Je pense qu'il représenterait parfaitement le caractère touchant et triste du père dépassé par la situation.</p></td>
+        <td><img class="casting_image" src=css/jimmi_simpson.png></td>
+    </tr>
+    <tr>
+        <td><p class="casting_text"><u>Dans le rôle de Fus:</u> Je demanderai <strong> Robert Seehan</strong>. Fus m'a fait pensé au rôle de grand adolescent rebel dans Umbrella incarné par cet acteur dans Umbrella Academy.</p></td>
+        <td><img class="casting_image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Robert_Sheehan_MingFilmFest_2011.jpg/170px-Robert_Sheehan_MingFilmFest_2011.jpg"></td>
+    </tr>
+    <tr>
+        <td><p class="casting_text"><u>Dans le rôle de Gillou:</u> J'appelerais <strong>Michael Cera</strong>. Je trouve que son air de jeune adulte innocent et touchant correspond parfaitement au personnage de Gillou.</p></td>
+        <td><img class="casting_image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Michael_Cera_-_001.jpg/440px-Michael_Cera_-_001.jpg"></td>
+    </tr>
+    <tr>
+        <td><p class="casting_text"><u>Dans le rôle de la moman:</u> Je demanderai <strong>Camille Cottin</strong>. Depuis son arrivée dans le monde du drame, celle-ci s'est montrée être l'actrice parfaite pour incarnée la moman.</p></td>
+        <td><img class="casting_image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camille_Cottin_2016.jpg/440px-Camille_Cottin_2016.jpg"></td>
+    </tr>
+    <tr>
+        <td><p class="casting_text"><u>Dans le rôle de Jérémy:</u> Je choisirai <strong>Danny Pudi</strong>. Celui-ci incarnait bien son rôle d'étudiant dans la sitcom Community ce qui ferait de lui, je pense, un bon acteur dans le rôle de Jérémy.</p></td>
+        <td><img class="casting_image" src="https://maximumfun.org/wp-content/uploads/2019/08/Danny-Pudi-329x400.jpg"></td>
+    </tr>
+</table>
+</div>
+
+<div style="margin-top:15vh;"></div>
+<div data-inviewport="text" class="critique">
+<p class="casting_head">CV: Gillou</p>
+<embed src="css/CV_gillou.pdf" type="application/pdf" class="CV">
+</div>
+
+<div style="margin-top:15vh;"></div>
+<div><p class="citations"><i>"Il était là au mauvais moment."</i>
+
+<div style="margin-top:15vh;"></div>
+<div data-inviewport="text" class="critique">
+<h3 style="margin-top: 5vh; font-size:60px;font-weight: bold;">Critique argumentée de l'oeuvre</h3>
+<p style="font-size:3vh;text-align: justify;text-justify: inter-word;">
+
+	Ce qu’il faut de nuit est un roman écrit par Laurent Petitmangin. Auteur, écrivain mais aussi cadre chez Air France, il passe ces vingts premières années à Metz aux cotés de son père cheminot et de sa mère secrétaire. Il déménage ensuite afin de poursuivre ses études pour plus tard intégrer Air France. Ce qu’il faut de nuit est son premier roman, écrit durant plus de dix ans avant sa publication le 20 août 2020. L’œuvre a très bien été reçue, rapportant plusieurs prix à Laurent Petitmangin tels que le Grand prix du premier roman de la Société des gens de lettres, ou encore le prix Femina des lycéens.<br>
+	Le roman raconte l’histoire d’un père veuf et de ses deux fils, surnommés Fus, le plus agé, et Gillou. Nous voyons au travers des yeux du père le déroulement de sa vie et donc les différentes interactions qu’il a auprès de diverses personnages. Nottament auprès de son Fus, avec lequel des tensions vont rapidement se créer due aux opinions politique opposés des deux personnages. Nous suivons également, toujours au travers des yeux du père, l’évolution de Gillou au cours de ses études.<br>
+	Ce qu’il faut de nuit est un roman riche en suspens et en détails. Le registre du langage utilisé, un langage courant inspiré du dialecte lorain, rend l’histoire accessible à n’importe quel lecteur ! Laurent Petimangin a sur faire en sorte que la tension mise en place entre le père et son fils Fus imprègne le lecteur et l’emporte au sein de l’histoire. Le fait que le lecteur suit la vie des personnages sur plusieurs années renforce la compassion que celui-ci peut avoir face au père et à ses fils. Les scènes décrites, tels que la chambre de Fus, le match de foot au début de l’histoire, sont détaillées et permettent une immersion dans l’histoire encore plus grande.<br>
+	<br>
+	Ce roman touchant et magnifique est un livre à ne pas manquer !</p>
+</div>
+
+<div style="margin-top:15vh;"></div>
+<div class="roman">
+    <h3 style="margin-top: 5vh; font-size:60px;font-weight: bold;">Mon roman</h3>
+    <table style="width: 100%;"><tr>
+        <td><button id="premiere_page" class="bouton_scenes">Première Page</button></td>
+        <td><button id="derniere_page" class="bouton_scenes">Dernière Page</button></td>
+    </tr></table>
+    <div id="contenu_roman" style="margin-top: 5vh;"><embed src="css/premiere_page.pdf" type="application/pdf" class="CV"></div>
+</div>
+
+<footer class="footer_sources">
+    Page Web entièrement codée en HTML5/CSS/JavaScript par Eliott Heuzé 1C, Lycée Dumont D'Urville<br>
+    Musiques par <a href='https://fr.wikipedia.org/wiki/C418'>C418</a>, <a href='https://fr.wikipedia.org/wiki/Justice_(groupe)'>Justice</a>, Gaspard Augé, Daft Punk, SebastiAn, Hollywood Edge Effects, et Stanley Parable<br>
+    Fichiers audios hébergés et streamés par Google Drive<br>
+    Fichiers vidéos hébergés et streamés par Youtube (Google Inc.)<br>
+</footer>
+
+</section>
+</body>
+</html>
+
+<script src="bundle.js"></script>

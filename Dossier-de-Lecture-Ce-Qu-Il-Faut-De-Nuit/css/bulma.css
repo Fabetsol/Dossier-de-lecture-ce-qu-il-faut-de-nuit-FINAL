@@ -1,0 +1,352 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+body, html{
+	font-family: 'Century Gothic', Calibri, serif;
+	font-size: 13px;
+	text-align: center;
+	color: rgb(0, 0, 0);
+	margin: 0;
+    background: no-repeat center center fixed;
+	background-color: black;
+	background-size:"cover";
+	background-repeat: no-repeat;
+	background-image: url(bg.png);
+	height: 100%;
+	scroll-behavior: smooth;
+}
+
+.section {padding: 0%;}
+
+/*animation des textes*/
+[data-inviewport="text"] { 
+    transition: 2s;
+    opacity: 0;
+    transform: translateY(30px);
+  }
+
+[data-inviewport="text"].is-inViewport { 
+    opacity: 1;
+    transform: translateY(0px);
+  }
+
+
+/*titres*/
+.titre_oeuvre {
+    font-size: 8vh;
+    font-weight: bold;
+    color: rgb(192, 20, 20);
+    text-shadow: 1px 2px 2px rgb(192, 20, 20);
+    }
+
+.nom_auteur {
+    font-size: 6vh;
+    color: rgb(0,0,0);
+    text-shadow: 1px 2px 2px rgb(0, 0, 0);
+}
+
+.date {
+    font-family: Romul;
+    font-size: 5vh;
+    font-weight: bold;
+    color: rgb(0,0,0);
+    text-shadow: 1px 2px 2px rgb(0, 0, 0);
+}
+
+/*auteur*/
+.photo_auteur {
+    border-radius: 100%;
+}
+
+.auteur {
+	background-color: antiquewhite;
+	color: goldenrod;
+	padding: 0px 0px 30px 30px;
+	margin-right: 10vh;
+	border-radius: 0px 50px 50px 0px;
+	border-color: transparent;
+}
+
+.auteur_head {
+    
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.auteur_table {
+    width: 100%;
+	border-spacing: 0px;
+	padding-left: 10vh;
+}
+
+.auteur_text {
+	padding: 2vh;
+	font-size: 3vh;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+/*Impressions de lecture*/
+
+.impressions {
+	background-color: antiquewhite;
+	color: goldenrod;
+	padding: 30px 30px 0px 0px;
+	margin-left: 10vh;
+	border-radius: 50px 0px 0px 50px;
+}
+
+.impressions_head {
+    
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.impressions_table {
+    width: 100%;
+	border-spacing: 0px;
+	padding-left: 10vh;
+}
+
+.impressions_text {
+	padding: 2vh;
+	font-size: 3vh;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+/*Mise en image*/
+
+.mise_image {
+	background-color: antiquewhite;
+	color: goldenrod;
+	padding: 0px 0px 30px 30px;
+	margin-right: 10vh;
+	border-radius: 0px 50px 50px 0px;
+	border-color: transparent;
+}
+
+.mise_image_head {
+    
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.mise_image_table {
+    width: 100%;
+	border-spacing: 1vh;
+	padding-left: 10vh;
+}
+
+.titre_scene_image {
+	font-size: 5vh;
+	font-weight: bold;
+	margin-top: 10vh;
+	vertical-align: middle;
+	height: 100%;
+}
+
+.tableaux_images {
+	padding: 10vh;
+}
+
+.mise_image_images {
+	width:100%;
+	margin: 1vh;
+	border-radius: 10%;
+}
+
+/*Musiques*/
+
+.player {
+	margin-left: 20vh;
+	margin-right: 20vh;
+	border-radius: 10vh;
+	padding: 10vh;
+	background-color: cadetblue;
+}
+
+.player_table {
+	width: 100%;
+}
+
+.player_head {
+	font-size: 6vh;
+	font-weight: bold;
+}
+
+.manage_music {
+	width: 100%;
+	height: 95vh;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.music_image {
+	width: 100%;
+	border-radius: 100%;
+}
+
+.musique {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.cover {
+	width:100%;
+	border-radius: 5vh;
+}
+
+.titre {
+	font-size: 5vh;
+	font-weight: bold;
+	color: rgb(0,0,0);
+}
+
+.artiste {
+	font-size: 3vh;
+	font-weight: bold;
+	color: rgb(55, 55, 55);
+}
+
+.scene {
+font-size: 4vh;
+font-weight: bold;
+}
+
+.justification {
+	font-size: 3vh;
+	text-align: justify;
+	color: white;
+}
+
+/*Scenes clefs*/
+
+.scenes_clefs {
+	background-color: antiquewhite;
+	color: goldenrod;
+	padding: 30px 30px 0px 0px;
+	margin-left: 10vh;
+	border-radius: 50px 0px 0px 50px;
+}
+
+.scenes_clefs_head {
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.scenes_clefs_table {
+    width: 100%;
+	border-spacing: 0px;
+	padding-left: 10vh;
+}
+
+.scenes_clefs_titre {
+	font-size: 40px;
+	font-weight: bold
+}
+
+.scenes_clefs_text {
+	padding: 2vh;
+	font-size: 3vh;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.bouton_scenes {
+	border-radius: 2vh;
+}
+
+/*Casting*/
+
+.casting {
+	background-color: antiquewhite;
+	color: goldenrod;
+	padding: 0px 30px 30px 30px;
+	margin-right: 10vh;
+	border-radius: 0px 50px 50px 0px;
+	border-color: transparent;
+}
+
+.casting_head {
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.casting_table {
+    width: 100%;
+	border-spacing: 10vh;
+	padding-left: 10vh;
+}
+
+.casting_text {
+	font-size:20px;
+	text-align: left;
+	margin:10vh
+}
+
+.casting_image {
+	width: 100%;
+	border-radius: 5%;
+}
+
+/*Bande-annonce*/
+
+.annonce {
+	background-color: antiquewhite;
+	color: goldenrod;
+	margin-right: 50vh;
+	margin-left: 50vh;
+	border-radius: 5vh;
+	border-color: transparent;
+	padding: 2vh;
+}
+
+/*CV*/
+
+.CV {
+	width: 100vh;
+	height: 150vh;
+}
+
+/*Critique*/
+
+.critique {
+	background-color: antiquewhite;
+	color: goldenrod;
+	padding: 4vh;
+	margin-right: 20vh;
+	margin-left: 20vh;
+	border-radius: 50px 50px 50px 50px;
+	border-color: transparent;
+}
+
+/*citations*/
+
+.citations {
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 5vh;
+	color: white;
+	text-shadow: 1px 2px 2px rgb(0, 0, 0);
+}
+
+/*roman*/
+
+.roman {
+	background-color: antiquewhite;
+	color: goldenrod;
+	padding: 4vh;
+	margin-right: 20vh;
+	margin-left: 20vh;
+	border-radius: 50px 50px 50px 50px;
+	border-color: transparent;
+}
+
+
+
+/*footer*/
+
+.footer_sources {
+	margin-top: 10vh;
+	background-color: antiquewhite;
+	color:goldenrod;
+}

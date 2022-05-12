@@ -1,0 +1,245 @@
+(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
+module.exports=[
+    [
+        "Impostor Syndrome",
+        "C418",
+        "data:image/jpeg;base64,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",
+        "Le Fus, le Gillou, et la moman",
+        "justification",
+        "audio"
+    ],
+    [
+        "Certitudes",
+        "C418",
+        "data:image/jpeg;base64,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",
+        "Les vacances",
+        "justification",
+        "audio"
+    ],
+    [
+        "titre",
+        "artiste",
+        "cover",
+        "La vieille section",
+        "justification",
+        "audio"
+    ],
+    [
+        "Embody",
+        "SebastiAn",
+        "https://m.media-amazon.com/images/I/712igQ1MedL._SL1200_.jpg",
+        "Jérémy tout court et l'avenir de Gillou",
+        "justification",
+        "audio"
+    ],
+    [
+        "Stress (Live version)",
+        "Justice",
+        "https://m.media-amazon.com/images/I/81BO6FkdTML._SS500_.jpg",
+        "Fus le facho",
+        "justification",
+        "audio"
+    ],
+    [
+        "https://youtu.be/guIaCocnNaw",
+        "The Stanley Parable",
+        "cover",
+        "L'appartement",
+        "justification",
+        "audio"
+    ],
+    [
+        "Burnin'",
+        "Daft Punk",
+        "https://m.media-amazon.com/images/I/81y68Fya9ZL._SS500_.jpg",
+        "Barbecue chez le Jacky",
+        "justification",
+        "audio"
+    ],
+    [
+        "Run for Me",
+        "SebastiAn",
+        "https://i0.wp.com/lesoreillescurieuses.com/wp-content/uploads/2019/11/69550471_10157231552815630_5032086312237137920_o.jpg?fit=960%2C960&ssl=1",
+        "Le départ de Gillou",
+        "justification",
+        "audio"
+    ],
+    [
+        "Crescendolls",
+        "Daft Punk",
+        "https://media.senscritique.com/media/000004792570/source_big/Discovery.jpg",
+        "La vie continue",
+        "justification",
+        "audio"
+    ],
+    [
+        "Prime Time Of Your Life",
+        "Daft Punk",
+        "https://static.fnac-static.com/multimedia/images_produits/ZoomPE/7/0/2/0724356356207/tsp20130828072827/Human-after-all.jpg",
+        "Fus blessé",
+        "justification",
+        "audio"
+    ],
+    [
+        "titre",
+        "artiste",
+        "cover",
+        "Le coma",
+        "justification",
+        "audio"
+    ],
+    [
+        "Doggg",
+        "SebastiAn",
+        "https://m.media-amazon.com/images/I/81BO6FkdTML._SS500_.jpg",
+        "L'agression",
+        "justification",
+        "audio"
+    ],
+    [
+        "Nightvision",
+        "Daft Punk",
+        "https://media.senscritique.com/media/000004792570/source_big/Discovery.jpg",
+        "Convalescence",
+        "justification",
+        "audio"
+    ],
+    [
+        "Slow Arrival",
+        "SebastiAn",
+        "https://i.scdn.co/image/ab67616d0000b27375b70f56174c668c55a3aef6",
+        "L'accusé",
+        "justification",
+        "audio"
+    ],
+    [
+        "Motor (Orchestral version)",
+        "SebastiAn",
+        "https://m.media-amazon.com/images/I/81GnM63PUxL._SY355_.jpg",
+        "Les témoignages",
+        "justification",
+        "audio"
+    ],
+    [
+        "Very Busy Sidewalk",
+        "Hollywood Edge Sound Effects",
+        "https://i.scdn.co/image/ab67616d0000b273f759211d3179f9a23da46a1f",
+        "Congés maladie",
+        "justification",
+        "audio"
+    ],
+    [
+        "Devoyka",
+        "SebastiAn",
+        "https://i0.wp.com/lesoreillescurieuses.com/wp-content/uploads/2019/11/69550471_10157231552815630_5032086312237137920_o.jpg?fit=960%2C960&ssl=1",
+        "Et maintenant, quoi ?",
+        "justification",
+        "audio"
+    ],
+    [
+        "Europa",
+        "Gasparg Augé",
+        "https://static.fnac-static.com/multimedia/Images/FR/NR/69/c8/cd/13486185/1540-1/tsp20210511141119/Escapades.jpg",
+        "Au mauvais endroit, au mauvais moment",
+        "justification",
+        "audio"
+    ],
+    [
+        "Captain",
+        "Gaspard Augé",
+        "https://static.fnac-static.com/multimedia/Images/FR/NR/69/c8/cd/13486185/1540-1/tsp20210511141119/Escapades.jpg",
+        "Le Fus.",
+        "justification",
+        "audio"
+    ],
+    [
+        "Valentine",
+        "Justice",
+        "https://m.media-amazon.com/images/I/51zeyYKXFWL._SL1200_.jpg",
+        "Cher Pa'",
+        "justification",
+        "audio"
+    ]
+]
+},{}],2:[function(require,module,exports){
+// Activation des animations lorsque visible
+
+const inViewport = (entries, observer) => {
+    entries.forEach(entry => {
+      entry.target.classList.toggle("is-inViewport", entry.isIntersecting);
+    });
+  };
+  
+  const Obs = new IntersectionObserver(inViewport);
+  const obsOptions = {}; //See: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API#Intersection_observer_options
+  
+  // Attach observer to every [data-inviewport] element:
+  const ELs_inViewport = document.querySelectorAll('[data-inviewport]');
+  ELs_inViewport.forEach(EL => {
+    Obs.observe(EL, obsOptions);
+  });
+
+
+
+// Changement d'images en fonction de la scène choisie
+
+const image_scene_n = document.getElementById('images_scene_n');
+const scene_1 = document.getElementById("scene_1");
+const scene_2 = document.getElementById("scene_2");
+const scene_3 = document.getElementById("scene_3");
+
+scene_1.addEventListener('click', event => {
+  image_scene_n.innerHTML = '<img src="https://cdn.radiofrance.fr/s3/cruiser-production/2020/08/f76e923a-0072-4c0d-9837-7bf89d315133/1136_les_chats.jpg">';
+  scene_1.style = 'background-color: rgb(29, 103, 189);';
+  scene_2.style = 'background-color: #fff;';
+  scene_3.style = 'background-color: #fff;';
+});
+
+scene_2.addEventListener('click', event => {
+  image_scene_n.innerHTML = '<img src="https://img.passeportsante.net/1200x675/2021-05-06/i106626-signes-bonne-sante-du-chat.webp">';
+  scene_1.style = 'background-color: #fff;';
+  scene_2.style = 'background-color: rgb(29, 103, 189);';
+  scene_3.style = 'background-color: #fff;';
+});
+
+scene_3.addEventListener('click', event => {
+  image_scene_n.innerHTML = '<img src="https://www.consoglobe.com/wp-content/uploads/2021/11/chat-maison_2079791452_ban.jpg">';
+  scene_1.style = 'background-color: #fff;';
+  scene_2.style = 'background-color: #fff;';
+  scene_3.style = 'background-color: rgb(29, 103, 189);';
+});
+
+
+
+// Défilement des musiques
+
+const musics = require('./musics.json');
+var index_music = 0;
+
+const previous = document.getElementById('previous');
+const next = document.getElementById('next');
+const music = document.getElementById('music');
+
+function updateMusic(index) {
+  music.innerHTML = `<table>
+  <tr><td><p>${index+1}/${musics.lenght}</p></td></tr>
+  <tr><td><img width=25vh src="${musics[index][2]}"></td></tr>
+  <tr><td><p>${musics[index][0]}</p></td></tr>
+  <tr><td><p>${musics[index][1]}</p></td></tr>
+  <tr><td><p>${musics[index][5]}</p></td></tr>
+  </table>`;
+}
+
+previous.addEventListener('click', event => {
+  index_music--;
+  if (index_music < 0) {index_music = musics.length-1;}
+  updateMusic(index_music);
+});
+
+next.addEventListener('click', event => {
+  index_music++;
+  if (index_music > musics.length-1) {index_music = 0;}
+  updateMusic(index_music);
+});
+
+},{"./musics.json":1}]},{},[2]);
