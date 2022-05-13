@@ -1,5 +1,14 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
 
+@font-face {
+    font-family: 'romulregular';
+    src: url('romul-webfont.woff2') format('woff2'),
+         url('romul-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body, html{
 	font-family: 'Century Gothic', Calibri, serif;
 	font-size: 13px;
@@ -45,7 +54,7 @@ body, html{
 }
 
 .date {
-    font-family: Romul;
+    font-family: 'romulregular';
     font-size: 5vh;
     font-weight: bold;
     color: rgb(0,0,0);
@@ -192,7 +201,7 @@ body, html{
 }
 
 .cover {
-	width:100%;
+	width:100vh;
 	border-radius: 5vh;
 }
 
