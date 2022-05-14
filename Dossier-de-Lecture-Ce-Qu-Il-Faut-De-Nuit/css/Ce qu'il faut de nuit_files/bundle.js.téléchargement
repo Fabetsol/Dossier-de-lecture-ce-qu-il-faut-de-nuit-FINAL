@@ -26,7 +26,7 @@ module.exports=[
     ],
     [
         "Embody",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://m.media-amazon.com/images/I/712igQ1MedL._SL1200_.jpg",
         "Jérémy tout court et l'avenir de Gillou",
         "justification",
@@ -42,7 +42,7 @@ module.exports=[
     ],
     [
         "https://youtu.be/guIaCocnNaw",
-        "The Stanley Parable",
+        "The <a href='https://fr.wikipedia.org/wiki/The_Stanley_Parable'>Stanley Parable</a>",
         "cover",
         "L'appartement",
         "justification",
@@ -58,7 +58,7 @@ module.exports=[
     ],
     [
         "Run for Me",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://i0.wp.com/lesoreillescurieuses.com/wp-content/uploads/2019/11/69550471_10157231552815630_5032086312237137920_o.jpg?fit=960%2C960&ssl=1",
         "Le départ de Gillou",
         "justification",
@@ -90,7 +90,7 @@ module.exports=[
     ],
     [
         "Doggg",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://m.media-amazon.com/images/I/81BO6FkdTML._SS500_.jpg",
         "L'agression",
         "justification",
@@ -106,7 +106,7 @@ module.exports=[
     ],
     [
         "Slow Arrival",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://i.scdn.co/image/ab67616d0000b27375b70f56174c668c55a3aef6",
         "L'accusé",
         "justification",
@@ -114,7 +114,7 @@ module.exports=[
     ],
     [
         "Motor (Orchestral version)",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://m.media-amazon.com/images/I/81GnM63PUxL._SY355_.jpg",
         "Les témoignages",
         "justification",
@@ -130,7 +130,7 @@ module.exports=[
     ],
     [
         "Devoyka",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://i0.wp.com/lesoreillescurieuses.com/wp-content/uploads/2019/11/69550471_10157231552815630_5032086312237137920_o.jpg?fit=960%2C960&ssl=1",
         "Et maintenant, quoi ?",
         "justification",
@@ -146,7 +146,7 @@ module.exports=[
     ],
     [
         "Captain",
-        "Gaspard Augé",
+        "<a href='https://fr.wikipedia.org/wiki/Gaspard_Aug%C3%A9'>Gaspard Augé</a>",
         "https://static.fnac-static.com/multimedia/Images/FR/NR/69/c8/cd/13486185/1540-1/tsp20210511141119/Escapades.jpg",
         "Le Fus.",
         "justification",

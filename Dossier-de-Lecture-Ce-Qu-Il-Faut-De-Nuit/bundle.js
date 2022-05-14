@@ -18,7 +18,7 @@ module.exports=[
     ],
     [
         "H.A.L",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://img.discogs.com/S0EnuLigfONqKMhHD7QZ-8IGyA0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-973298-1242208254.jpeg.jpg",
         "Fus s'éloigne",
         "Cette musique représente selon moi un esprit d'ado un peu rebel me rappellant Fus à ce moment là de l'oeuvre lorsque celui-ci commence à passer moins de temps avec sa famille et plus de temps avec ses amis que le père ne semble pas apprécier..",
@@ -26,10 +26,10 @@ module.exports=[
     ],
     [
         "Embody",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://m.media-amazon.com/images/I/712igQ1MedL._SL1200_.jpg",
         "L'avenir de Gillou",
-        "Lorsque j'ai lu cette partie du roman où Jérémy aide Gillou pour son avenir, j'ai immédiatement pensé à ce titre de SebastiAn ou nous pouvons voir un jeune homme apprendre à danser.",
+        "Lorsque j'ai lu cette partie du roman où Jérémy aide Gillou pour son avenir, j'ai immédiatement pensé à ce titre de <a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a> ou nous pouvons voir un jeune homme apprendre à danser.",
         "https://drive.google.com/file/d/1YTN5Tk__p3nHwFaQnW9Ce4Yz3nOe65xU/view?usp=sharing"
     ],
     [
@@ -42,7 +42,7 @@ module.exports=[
     ],
     [
         "Following Stanley",
-        "<i>Extrait du jeu vidéo</i> The Stanley Parable",
+        "<i>Extrait du jeu vidéo</i> The <a href='https://fr.wikipedia.org/wiki/The_Stanley_Parable'>Stanley Parable</a>",
         "https://i.scdn.co/image/ab67616d0000b273dfda7ec79678aa32f63983c8",
         "L'appartement",
         "Cette musique est connue sur Internet pour inspirer un esprit de recherche et me semblait parfaite pour représenter la recherche d'un appartement pour Gillou !",
@@ -58,10 +58,10 @@ module.exports=[
     ],
     [
         "Run for Me",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://i0.wp.com/lesoreillescurieuses.com/wp-content/uploads/2019/11/69550471_10157231552815630_5032086312237137920_o.jpg?fit=960%2C960&ssl=1",
         "Le départ de Gillou",
-        "Cette scène triste et touchante m'a instantanément rappelé ce titre de SebastiAn qui lui-même me touche à chaque fois que je l'écoute.",
+        "Cette scène triste et touchante m'a instantanément rappelé ce titre de <a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a> qui lui-même me touche à chaque fois que je l'écoute.",
         "https://drive.google.com/file/d/1v0PmOvfAOPowNG90NpZMj3jMOBstBQ2j/view?usp=sharing"
     ],
     [
@@ -74,7 +74,7 @@ module.exports=[
     ],
     [
         "Doggg",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://m.media-amazon.com/images/I/81BO6FkdTML._SS500_.jpg",
         "L'agression",
         "justification",
@@ -90,7 +90,7 @@ module.exports=[
     ],
     [
         "Slow Arrival",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://i.scdn.co/image/ab67616d0000b27375b70f56174c668c55a3aef6",
         "L'accusé",
         "J'ai ressenti beaucoup stress et du soupçon venant du père lorsque celui-ci était dans l'hotel, d'où le choix de ce titre qui représente selon moi l'ambiance de ce passage.",
@@ -98,10 +98,10 @@ module.exports=[
     ],
     [
         "Motor (Orchestral version)",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://m.media-amazon.com/images/I/81GnM63PUxL._SY355_.jpg",
         "Les témoignages",
-        "Lors du passage de chaque témoins, nous ressentons le stress grandissant que ressens le père. Cette adaptation officiel du titre \"Motor\" par SebastiAn m'est parue parfaite pour représenter cette scène.",
+        "Lors du passage de chaque témoins, nous ressentons le stress grandissant que ressens le père. Cette adaptation officiel du titre \"Motor\" par <a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a> m'est parue parfaite pour représenter cette scène.",
         "https://drive.google.com/file/d/1iC2zey650CYfGnjHIhZM1v2HTi5__Oy3/view?usp=sharing"
     ],
     [
@@ -114,7 +114,7 @@ module.exports=[
     ],
     [
         "Devoyka",
-        "SebastiAn",
+        "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://i0.wp.com/lesoreillescurieuses.com/wp-content/uploads/2019/11/69550471_10157231552815630_5032086312237137920_o.jpg?fit=960%2C960&ssl=1",
         "Et maintenant, quoi ?",
         "Depuis l'annonce de la peine de 25 ans de prison de Fus, le père est triste et n'ose même plus rentrer dans la chambre de son fils. Cependant, à la fin du chapitre, après que les gendarmes annoncent la réouverture de l'enquête, on constate un regain d'espoir, de joie chez le père. D'où le choix de cette musique commençant sur un ton triste et lent et terminant sur note plus gaie.",
@@ -130,7 +130,7 @@ module.exports=[
     ],
     [
         "Captain",
-        "Gaspard Augé",
+        "<a href='https://fr.wikipedia.org/wiki/Gaspard_Aug%C3%A9'>Gaspard Augé</a>",
         "https://static.fnac-static.com/multimedia/Images/FR/NR/69/c8/cd/13486185/1540-1/tsp20210511141119/Escapades.jpg",
         "Le Fus.",
         "J'ai jugé que cette musique était adéquate pour cloturer l'histoire du point de vue du père. Je trouve qu'elle ressemble à une sorte de générique de vieu dessin animé.",
