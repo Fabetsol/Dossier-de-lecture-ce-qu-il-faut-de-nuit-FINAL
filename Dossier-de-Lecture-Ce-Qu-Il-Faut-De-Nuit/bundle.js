@@ -50,7 +50,7 @@ module.exports=[
     ],
     [
         "Burnin'",
-        "Daft Punk",
+        "<a href='https://fr.wikipedia.org/wiki/Daft_Punk'>Daft Punk</a>",
         "https://m.media-amazon.com/images/I/81y68Fya9ZL._SS500_.jpg",
         "Barbecue chez le Jacky",
         "Ceci est le genre de musique que je pourrais entendre lors d'un barbecue, aussi, le clip est basée sur un père de famille faisant un barbecue. De plus les sons de plus en plus aigu peuvent selon moi représenter le stress montant du père face aux questions que ses camarades lui posent au sujet de Fus.",
@@ -66,7 +66,7 @@ module.exports=[
     ],
     [
         "Prime Time Of Your Life",
-        "Daft Punk",
+        "<a href='https://fr.wikipedia.org/wiki/Daft_Punk'>Daft Punk</a>",
         "https://static.fnac-static.com/multimedia/images_produits/ZoomPE/7/0/2/0724356356207/tsp20130828072827/Human-after-all.jpg",
         "Fus blessé",
         "J'ai choisi cette musique car selon moi, les paroles répétitives au début du titre représente le père allant chercher Gillou et Jérémy chaque semaine. De plus, le titre (signifiant \"Le moment le plus important de ta vie\") rappelle cette \"mission\" que le père s'est donné. <br> La seconde partie de la musique, elle, plus puissante, plus stressante, représente la sène où le père découvre Fus gravement blessé sur le canapé.",
@@ -82,7 +82,7 @@ module.exports=[
     ],
     [
         "Nightvision",
-        "Daft Punk",
+        "<a href='https://fr.wikipedia.org/wiki/Daft_Punk'>Daft Punk</a>",
         "https://media.senscritique.com/media/000004792570/source_big/Discovery.jpg",
         "Convalescence",
         "J'ai choisi cette musique calme pour représenter la convalescence de Fus. Le battement de coeur que l'on peut entendre rappelle également l'état de Fus dans ce passage du roman.",
@@ -122,7 +122,7 @@ module.exports=[
     ],
     [
         "Europa",
-        "Gasparg Augé",
+        "<a href='https://fr.wikipedia.org/wiki/Gaspard_Aug%C3%A9'>Gaspard Augé</a>",
         "https://static.fnac-static.com/multimedia/Images/FR/NR/69/c8/cd/13486185/1540-1/tsp20210511141119/Escapades.jpg",
         "Au mauvais endroit, au mauvais moment",
         "Le père regagne de l'espoir et accepte de faire appel pour la procès de Fus. Il contacte alors plusieurs personnes pour receuillir des témoignages en faveur de son fils. J'ai pensé que ce titre correspondrait bien aux défilement de scènes du père cherchant de l'aide.",

@@ -50,7 +50,7 @@ module.exports=[
     ],
     [
         "Burnin'",
-        "Daft Punk",
+        "<a href='https://fr.wikipedia.org/wiki/Daft_Punk'>Daft Punk</a>",
         "https://m.media-amazon.com/images/I/81y68Fya9ZL._SS500_.jpg",
         "Barbecue chez le Jacky",
         "justification",
@@ -66,7 +66,7 @@ module.exports=[
     ],
     [
         "Crescendolls",
-        "Daft Punk",
+        "<a href='https://fr.wikipedia.org/wiki/Daft_Punk'>Daft Punk</a>",
         "https://media.senscritique.com/media/000004792570/source_big/Discovery.jpg",
         "La vie continue",
         "justification",
@@ -74,7 +74,7 @@ module.exports=[
     ],
     [
         "Prime Time Of Your Life",
-        "Daft Punk",
+        "<a href='https://fr.wikipedia.org/wiki/Daft_Punk'>Daft Punk</a>",
         "https://static.fnac-static.com/multimedia/images_produits/ZoomPE/7/0/2/0724356356207/tsp20130828072827/Human-after-all.jpg",
         "Fus blessé",
         "justification",
@@ -98,7 +98,7 @@ module.exports=[
     ],
     [
         "Nightvision",
-        "Daft Punk",
+        "<a href='https://fr.wikipedia.org/wiki/Daft_Punk'>Daft Punk</a>",
         "https://media.senscritique.com/media/000004792570/source_big/Discovery.jpg",
         "Convalescence",
         "justification",
