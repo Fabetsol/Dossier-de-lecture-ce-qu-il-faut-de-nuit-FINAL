@@ -10,6 +10,7 @@
 }
 
 body, html{
+	display: flex;
 	font-family: 'Century Gothic', Calibri, serif;
 	font-size: 13px;
 	text-align: center;
