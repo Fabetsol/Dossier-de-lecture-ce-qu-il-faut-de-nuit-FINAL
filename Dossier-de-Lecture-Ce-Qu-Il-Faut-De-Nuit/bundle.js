@@ -77,7 +77,7 @@ module.exports=[
         "<a href='https://fr.wikipedia.org/wiki/Sebastian_(musicien)'>SebastiAn</a>",
         "https://m.media-amazon.com/images/I/81BO6FkdTML._SS500_.jpg",
         "L'agression",
-        "justification",
+        "Ici, Fus décrit une scène violente reconsituant son agression, j'ai donc choisi une musique que je trouvais tout aussi violente. Selon l'artiste, cette musique est faite pour évoquer une agression, une bagarre...",
         "https://drive.google.com/file/d/1CqtkA7pzu0gAZKlPYYqivjXSr45lEbFv/view?usp=sharing"
     ],
     [
